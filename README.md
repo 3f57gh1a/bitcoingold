@@ -1,0 +1,2 @@
+# bitcoingold
+proyecto de mineria
